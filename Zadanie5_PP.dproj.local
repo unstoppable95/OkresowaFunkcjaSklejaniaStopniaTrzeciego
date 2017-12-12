@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.331,C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLVAL.PAS=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.225,C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLVAL.PAS=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,=C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLVAL.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.410,C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLVAL.PAS=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.040,C:\Users\Piotr\Desktop\EAN_zadanie5\Projekt_EAN.dfm=C:\Users\Piotr\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,=C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLCNS.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLCNS.PAS=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLCNS.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLCNS.PAS=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,=C:\Users\Piotr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,=C:\Users\Piotr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.040,C:\Users\Piotr\Desktop\EAN_zadanie5\Projekt_EAN.pas=C:\Users\Piotr\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.191,C:\Users\Piotr\Desktop\EAN_zadanie5\Zadanie5_PP.dproj=C:\Users\Piotr\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.355,C:\Users\Piotr\Desktop\EAN_zadanie5\IntervalArithmetic32and64.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,=C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLVAL.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,=C:\Users\Piotr\Desktop\EAN_zadanie5\PSPLVAL.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,=C:\Users\Piotr\Desktop\EAN_zadanie5\IntervalArithmetic32and64.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,=C:\Users\Piotr\Desktop\EAN_zadanie5\IntervalArithmetic32and64.pas</Transaction>
+  </Transactions>
+</BorlandProject>
